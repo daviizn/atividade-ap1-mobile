@@ -1,0 +1,6 @@
+export const rotulo_titulo = "Cadastro de Usuário"
+export const rotulo_btn_cadastrar = "Cadastrar"
+export const rotulo_nome_cadastro = "Nome:"
+export const rotulo_telefone_cadastro = "Telefone:"
+export const rotulo_telefone_lista = "Telefone"
+export const rotulo_nome_lista = "Nome"
